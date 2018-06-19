@@ -1,11 +1,11 @@
 {
-  "name": "subvert/omnipay-yeepay",
+  "name": "xzw/omnipay-yeepay",
   "description": "yeepay pos gateway",
   "type": "library",
   "authors": [
     {
-      "name": "Xiao xie",
-      "email": "xiezhongwei@todriver.com"
+      "name": "william",
+      "email": "xzwilj@gmail.com"
     }
   ],
   "autoload": {
