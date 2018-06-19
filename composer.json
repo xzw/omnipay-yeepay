@@ -1,0 +1,22 @@
+{
+  "name": "subvert/omnipay-yeepay",
+  "description": "yeepay pos gateway",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Xiao xie",
+      "email": "xiezhongwei@todriver.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Omnipay\\YeePay\\": "src/"
+    }
+  },
+  "require": {
+    "omnipay/common": "~2.0"
+  },
+  "require-dev": {
+    "omnipay/tests": "~2.0"
+  }
+}
